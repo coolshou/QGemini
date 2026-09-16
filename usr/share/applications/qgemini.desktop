@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QGemini
+Comment=Qt6 based Gemini Webview Client
+Exec=/usr/bin/qgemini
+Icon=/usr/share/icons/hicolor/24x24/apps/qgemini.svg
+Terminal=false
+Type=Application
+Categories=Network;Chat;
+StartupNotify=true
+StartupWMClass=qgemini
